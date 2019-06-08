@@ -1,0 +1,1 @@
+# write shell commands to download some AVIRIS granules
