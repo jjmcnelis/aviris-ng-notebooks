@@ -2,7 +2,7 @@
 
 *Check out [this repo](https://github.com/ornldaac/above-airborne-avirisng-python) at ORNL DAAC's GitHub page for more AVIRIS-NG examples using data from ABoVE.*
 
-A number of generic functions are defined in the notebooks to simplify steps previously covered. All functions take exactly one argument, a gdal.Dataset from an ENVI format binary image file.
+All functions take exactly one argument, a gdal raster dataset opened from an ENVI binary image file.
 
 ## Notebooks
 
